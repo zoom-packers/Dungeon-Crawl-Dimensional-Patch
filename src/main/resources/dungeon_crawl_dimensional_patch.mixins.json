@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pandaismyname1.dungeon_crawl_dimensional_patch.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "DungeonCrawlDimensionalPatch.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
